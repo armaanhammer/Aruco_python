@@ -1,3 +1,10 @@
+# This is a fork of https://github.com/ajaymin28/Aruco_python
+We are using this to calibrate scenes with multiple robots for https://github.com/armaanhammer/ECE-510-Monkey-and-Banana
+
+
+-----
+# Original README:
+
 This is Aruco built in Python using python bindings of opencv.
 
 - Requirements
